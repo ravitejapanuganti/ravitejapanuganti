@@ -54,6 +54,9 @@ Here are some ideas to get you started:
    <!-- nextjs -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
 
+   <!-- react -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="60" height="60"/>
+
    <!-- npm -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/npm/npm-original.svg" width="60" height="60"/>
    
