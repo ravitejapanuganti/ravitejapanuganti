@@ -15,7 +15,16 @@ Here are some ideas to get you started:
   <!-- Angular -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" width="60" height="60"/>
 
-  <!-- Java -->
+   <!-- Java Script -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" width="60" height="60"/>
+
+   <!-- Type Script -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" width="60" height="60"/>
+
+   <!-- Java -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="60" height="60"/>
+
+  <!-- Spring boot -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/springboot/springboot-original.svg" width="60" height="60"/>
    
 </p>
