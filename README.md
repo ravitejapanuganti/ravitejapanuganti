@@ -21,23 +21,28 @@ Here are some ideas to get you started:
    <!-- Type Script -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" width="60" height="60"/>
 
+   <!-- Angular Material -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularmaterial/angularmaterial-original.svg" width="60" height="60"/>
+
+   <!-- Bootstrap -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+
    <!-- Java -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="60" height="60"/>
 
   <!-- Spring -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" width="60" height="60"/>
 
-   <!-- github -->
+   <!-- git -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="60" height="60"/>
-
-   <!-- git lab -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/gitlab/gitlab-original.svg" width="60" height="60"/>
 
    <!-- Docker -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="60" height="60"/>
 
    <!-- Python -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="60" height="60"/>
+
+   
 
    
    
