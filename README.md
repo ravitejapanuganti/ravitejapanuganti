@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="60" height="60"/>
 
    <!-- Vercel -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vercel/vercel-original.svg" width="60" height="60"/>
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vercel/vercel-original-wordmark.svg" width="60" height="60"/>
    
    
 </p>
