@@ -13,52 +13,52 @@ Here are some ideas to get you started:
 <p align="left">
 
   <!-- Angular -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60"/>
 
    <!-- Java Script -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
 
    <!-- Type Script -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/>
 
    <!-- Angular Material -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angularmaterial/angularmaterial-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" width="60" height="60"/>
 
    <!-- Bootstrap -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
 
    <!-- Java -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/>
 
   <!-- Spring -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60"/>
 
    <!-- Visual Studio -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/>
 
    <!-- git -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>
 
    <!-- Docker -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/>
 
    <!-- Python -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
 
    <!-- Tomcat -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tomcat/tomcat-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="60" height="60"/>
 
    <!-- Postgresql -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
 
    <!-- nextjs -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
 
    <!-- react -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/>
 
    <!-- npm -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/npm/npm-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="60" height="60"/>
    
    
 </p>
