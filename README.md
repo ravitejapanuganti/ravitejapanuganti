@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <!-- Spring -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" width="60" height="60"/>
 
+   <!-- Visual Studio -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/visualstudio/visualstudio-original.svg" width="60" height="60"/>
+
    <!-- git -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" width="60" height="60"/>
 
@@ -42,8 +45,8 @@ Here are some ideas to get you started:
    <!-- Python -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="60" height="60"/>
 
-   
-
+   <!-- Vercel -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vercel/vercel-original.svg" width="60" height="60"/>
    
    
 </p>
