@@ -8,6 +8,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about technical queries about Frontend (Angular) and Backend (Java).
 - 📫 How to reach me: reach me at <a>praviteja72@gmail.com</a>
 
-Working Technologies are:
-<br>
+### 🛠️ Tools & Technologies I Use:
 
+<p align="left">
+
+  <!-- Angular -->
+
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" width="60" height="60"/>
+</p>
