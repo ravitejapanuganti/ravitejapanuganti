@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 <p align="left">
 
   <!-- Angular -->
-
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" width="60" height="60"/>
+
+  <!-- Java -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="60" height="60"/>
+   
 </p>
