@@ -24,7 +24,15 @@ Here are some ideas to get you started:
    <!-- Java -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" width="60" height="60"/>
 
-  <!-- Spring boot -->
-   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/springboot/springboot-original.svg" width="60" height="60"/>
+  <!-- Spring -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" width="60" height="60"/>
+
+   <!-- Docker -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="60" height="60"/>
+
+   <!-- Python -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" width="60" height="60"/>
+
+   
    
 </p>
