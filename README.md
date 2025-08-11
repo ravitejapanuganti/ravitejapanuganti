@@ -27,6 +27,12 @@ Here are some ideas to get you started:
   <!-- Spring -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" width="60" height="60"/>
 
+   <!-- github -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" width="60" height="60"/>
+
+   <!-- git lab -->
+   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/gitlab/gitlab-original.svg" width="60" height="60"/>
+
    <!-- Docker -->
    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="60" height="60"/>
 
